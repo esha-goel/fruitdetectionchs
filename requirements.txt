@@ -1,0 +1,7 @@
+keras
+Keras-Preprocessing
+numpy
+Pillow
+streamlit
+tensorflow
+
